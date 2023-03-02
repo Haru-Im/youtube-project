@@ -1,0 +1,1679 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "OAtcr8XANQ2_xqrXw1karLTXVJk",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "63Wqq2o3oAn5lrOV93AnFjoPlBg",
+      "id": "ZDXWUGsFkKU",
+      "snippet": {
+        "publishedAt": "2023-02-07T16:56:33Z",
+        "channelId": "UCsqjHFMB_JYTaEnf_vmTNqg",
+        "title": "I Bought a Porsche Carrera GT – My All-Time Dream Car!",
+        "description": "CHECK OUT CARS & BIDS!\nhttps://carsandbids.com\n\nI bought a Porsche Carrera GT! The Porsche Carrera GT is my all-time dream car -- I've wanted one for almost 18 years. And I bought one! Today I'm going to show you around my Porsche Carrera GT and explain my journey to get here.\n\nTHANKS TO REPASI MOTORWERKS AND THE CULTIVATED COLLECTOR!\nhttps://repasimotorwerks.com/\nhttps://thecultivatedcollector.com/\n\nWEBSITE & MERCH!\nhttp://www.dougdemuro.com\n\nFOLLOW ME!\nTwitter - http://www.twitter.com/dougdemuro\nInstagram - http://www.instagram.com/dougdemuro\nFacebook - http://www.facebook.com/ddemuro\n\nDOUGSCORE CHART:\nhttps://www.dougdemuro.com/dougscore",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZDXWUGsFkKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZDXWUGsFkKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZDXWUGsFkKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZDXWUGsFkKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZDXWUGsFkKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Doug DeMuro",
+        "tags": [
+          "porsche carrera gt",
+          "carrera gt",
+          "doug demuro",
+          "demuro",
+          "doug de muro"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Bought a Porsche Carrera GT – My All-Time Dream Car!",
+          "description": "CHECK OUT CARS & BIDS!\nhttps://carsandbids.com\n\nI bought a Porsche Carrera GT! The Porsche Carrera GT is my all-time dream car -- I've wanted one for almost 18 years. And I bought one! Today I'm going to show you around my Porsche Carrera GT and explain my journey to get here.\n\nTHANKS TO REPASI MOTORWERKS AND THE CULTIVATED COLLECTOR!\nhttps://repasimotorwerks.com/\nhttps://thecultivatedcollector.com/\n\nWEBSITE & MERCH!\nhttp://www.dougdemuro.com\n\nFOLLOW ME!\nTwitter - http://www.twitter.com/dougdemuro\nInstagram - http://www.instagram.com/dougdemuro\nFacebook - http://www.facebook.com/ddemuro\n\nDOUGSCORE CHART:\nhttps://www.dougdemuro.com/dougscore"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qL0Hkr0C7FOTVZM6ZjjO0oO6TsA",
+      "id": "jgv00uCRt60",
+      "snippet": {
+        "publishedAt": "2023-02-07T15:00:11Z",
+        "channelId": "UC52XYgEExV9VG6Rt-6vnzVA",
+        "title": "Destiny 2: Lightfall | Strand Trailer",
+        "description": "Shattered glass glints in the starlight. Soldiers of the Shadow Legion battle with Guardians under the unmistakable shadows of the fleet overhead—the Witness and its newest disciple are here. Find strength in the Light, arm yourself with Darkness, and peer beyond the veil as you raise the stakes on an already unforgettable campaign. Legendary Mode returns. \n\nTravel to a destination unlike any you've explored in Destiny 2. Cross paths with bone-chilling Tormentors and valiant Cloud Striders, join the fight against the Shadow Legion, and prevent devastation in the technologically advanced secret city of Neomuna.\n\nhttps://bung.ie/lightfall\n\nFOLLOW DESTINY:\nFacebook: https://www.facebook.com/DestinyTheGame\nTwitter: https://www.twitter.com/destinythegame\nInstagram: https://www.instagram.com/destinythegame\nDiscord: http://www.discord.gg/destinygame\n\nFOLLOW BUNGIE:\nFacebook: https://www.facebook.com/Bungie/\nTwitter: https://www.twitter.com/bungie\nInstagram: https://www.instagram.com/bungie/\n⠀ ⠀ ⠀ ⠀\nDive into the free-to-play world of Destiny 2 to experience responsive first-person shooter combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Create your Guardian and collect unique weapons, armor, and gear to customize your look and playstyle. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jgv00uCRt60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jgv00uCRt60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jgv00uCRt60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jgv00uCRt60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jgv00uCRt60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Destiny 2",
+        "tags": ["Destiny"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Destiny 2: Lightfall | Strand Trailer",
+          "description": "Shattered glass glints in the starlight. Soldiers of the Shadow Legion battle with Guardians under the unmistakable shadows of the fleet overhead—the Witness and its newest disciple are here. Find strength in the Light, arm yourself with Darkness, and peer beyond the veil as you raise the stakes on an already unforgettable campaign. Legendary Mode returns. \n\nTravel to a destination unlike any you've explored in Destiny 2. Cross paths with bone-chilling Tormentors and valiant Cloud Striders, join the fight against the Shadow Legion, and prevent devastation in the technologically advanced secret city of Neomuna.\n\nhttps://bung.ie/lightfall\n\nFOLLOW DESTINY:\nFacebook: https://www.facebook.com/DestinyTheGame\nTwitter: https://www.twitter.com/destinythegame\nInstagram: https://www.instagram.com/destinythegame\nDiscord: http://www.discord.gg/destinygame\n\nFOLLOW BUNGIE:\nFacebook: https://www.facebook.com/Bungie/\nTwitter: https://www.twitter.com/bungie\nInstagram: https://www.instagram.com/bungie/\n⠀ ⠀ ⠀ ⠀\nDive into the free-to-play world of Destiny 2 to experience responsive first-person shooter combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Create your Guardian and collect unique weapons, armor, and gear to customize your look and playstyle. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rrtPVXsTrREwwYHNf-RQ_f37Mpw",
+      "id": "Uh4QGey2zTk",
+      "snippet": {
+        "publishedAt": "2023-02-07T13:00:15Z",
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "title": "Why China is losing the microchip war",
+        "description": "And why the US and China are fighting over silicon in the first place.\n\nSubscribe and turn on notifications 🔔  so you don't miss any videos: http://goo.gl/0bsAjO \n\nIn October 2022, the Biden administration placed a large-scale ban on the sale of advanced semiconductor chips to China. They also implemented a series of other rules that prevents China from making these chips on their own. These chips are used in everyday technology, like our mobile phones and computers. They’re also crucial to military and intelligence systems, which is one of the main reasons they're at the center of a feud between the United States and China. \n\nMicrochips were first invented in the US in the 1950s, after which their use rapidly expanded worldwide. Since then, the supply chain for these chips has grown and spread to include countries in Europe and Asia. And while some countries have caught up to the US's edge in making these advanced chips, China still falls far behind despite multiple attempts to gain an advantage.\n\nWatch the latest episode of Vox Atlas to understand why China is losing a new cold war with the US over microchips.\n\nSources and further reading: \n\nWe found this book written by Chris Miller very helpful for understanding the history of chip development in the US and the foreign policy behind its competition and feud with China: \n\nChip War: The Fight for the World's Most Critical Technology\nhttps://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002 \n\nThis book gave us great context on China’s efforts to acquire foreign technology: \n\nChinese Industrial Espionage by Anna Puglisi\nhttps://www.amazon.com/Books-Anna-B-Puglisi/s?rh=n%3A283155%2Cp_27%3AAnna+B.+Puglisi\n\nArticles like this by Chien-Huei Wu helped us learn more about how much the US replies on east asian countries for successful technology:\nhttps://thediplomat.com/2022/05/east-asian-firms-are-critical-to-americas-semiconductor-success/\n\nReporting by Bloomberg helped us understand major IP theft cases related to semiconductor chips: \nhttps://cset.georgetown.edu/article/engineer-who-fled-charges-of-stealing-chip-technology-in-us-now-thrives-in-china/\n\nMake sure you never miss behind the scenes content in the Vox Video newsletter, sign up here: http://vox.com/video-newsletter\n\nVox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com\n\nSupport Vox's reporting with a one-time or recurring contribution: http://vox.com/contribute-now\n\nShop the Vox merch store: http://vox.com/store\n\nWatch our full video catalog: http://goo.gl/IZONyE\n\nFollow Vox on Facebook: http://facebook.com/vox\nFollow Vox on Twitter: http://twitter.com/voxdotcom\nFollow Vox on TikTok: http://tiktok.com/@voxdotcom",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uh4QGey2zTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uh4QGey2zTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uh4QGey2zTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uh4QGey2zTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uh4QGey2zTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vox",
+        "tags": [
+          "Huawei",
+          "Intel",
+          "South Korea",
+          "Vox.com",
+          "china",
+          "cold war",
+          "computer",
+          "computer chips",
+          "explain",
+          "explainer",
+          "hong kong",
+          "japan",
+          "microchips",
+          "semiconductors",
+          "taiwan",
+          "tech wars",
+          "us",
+          "vox",
+          "biden",
+          "xi",
+          "chinese",
+          "chinese fabrication",
+          "fab",
+          "south korea",
+          "taiwan strait",
+          "TSMC",
+          "IBM",
+          "trade",
+          "trump",
+          "zte",
+          "silicone",
+          "usa",
+          "united states",
+          "geopolitics",
+          "economics",
+          "engineering",
+          "technology",
+          "tech",
+          "war",
+          "energy",
+          "electricity",
+          "military",
+          "NASA",
+          "computers",
+          "television",
+          "radio",
+          "phones",
+          "transistors",
+          "fabs",
+          "nuclear",
+          "weapons",
+          "AI",
+          "nvidia",
+          "national security"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why China is losing the microchip war",
+          "description": "And why the US and China are fighting over silicon in the first place.\n\nSubscribe and turn on notifications 🔔  so you don't miss any videos: http://goo.gl/0bsAjO \n\nIn October 2022, the Biden administration placed a large-scale ban on the sale of advanced semiconductor chips to China. They also implemented a series of other rules that prevents China from making these chips on their own. These chips are used in everyday technology, like our mobile phones and computers. They’re also crucial to military and intelligence systems, which is one of the main reasons they're at the center of a feud between the United States and China. \n\nMicrochips were first invented in the US in the 1950s, after which their use rapidly expanded worldwide. Since then, the supply chain for these chips has grown and spread to include countries in Europe and Asia. And while some countries have caught up to the US's edge in making these advanced chips, China still falls far behind despite multiple attempts to gain an advantage.\n\nWatch the latest episode of Vox Atlas to understand why China is losing a new cold war with the US over microchips.\n\nSources and further reading: \n\nWe found this book written by Chris Miller very helpful for understanding the history of chip development in the US and the foreign policy behind its competition and feud with China: \n\nChip War: The Fight for the World's Most Critical Technology\nhttps://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002 \n\nThis book gave us great context on China’s efforts to acquire foreign technology: \n\nChinese Industrial Espionage by Anna Puglisi\nhttps://www.amazon.com/Books-Anna-B-Puglisi/s?rh=n%3A283155%2Cp_27%3AAnna+B.+Puglisi\n\nArticles like this by Chien-Huei Wu helped us learn more about how much the US replies on east asian countries for successful technology:\nhttps://thediplomat.com/2022/05/east-asian-firms-are-critical-to-americas-semiconductor-success/\n\nReporting by Bloomberg helped us understand major IP theft cases related to semiconductor chips: \nhttps://cset.georgetown.edu/article/engineer-who-fled-charges-of-stealing-chip-technology-in-us-now-thrives-in-china/\n\nMake sure you never miss behind the scenes content in the Vox Video newsletter, sign up here: http://vox.com/video-newsletter\n\nVox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com\n\nSupport Vox's reporting with a one-time or recurring contribution: http://vox.com/contribute-now\n\nShop the Vox merch store: http://vox.com/store\n\nWatch our full video catalog: http://goo.gl/IZONyE\n\nFollow Vox on Facebook: http://facebook.com/vox\nFollow Vox on Twitter: http://twitter.com/voxdotcom\nFollow Vox on TikTok: http://tiktok.com/@voxdotcom"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aW9evLXl7v4a6uqUqUHLkuiaXes",
+      "id": "4vBOp8Fagyo",
+      "snippet": {
+        "publishedAt": "2023-02-06T21:18:08Z",
+        "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
+        "title": "Hogwarts Legacy - Before You Buy",
+        "description": "Hogwarts Legacy (PC, PS5, Xbox Series X/S) is an open world action RPG set within the world of Harry Potter. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv ▼\n\nVideo by Jake Baldino\n\nBuy Hogwarts Legacy: https://amzn.to/3RBx80l\n \n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6\n\n#hogwartslegacy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vBOp8Fagyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vBOp8Fagyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vBOp8Fagyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4vBOp8Fagyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4vBOp8Fagyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "gameranx",
+        "tags": [
+          "hogwarts legacy",
+          "hogwarts legacy review",
+          "hogwarts legacy game review",
+          "hogwarts legacy gameplay",
+          "hogwarts legacy PS5",
+          "hogwarts legacy PS5 gameplay",
+          "hogwarts legacy before you buy",
+          "before you buy hogwarts legacy",
+          "hogwarts legacy game",
+          "harry potter game review",
+          "harry potter game",
+          "gameranx",
+          "game review",
+          "hogwarts legacy combat",
+          "hogwarts legacy open world",
+          "harry potter open world",
+          "jake baldino",
+          "before you buy"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hogwarts Legacy - Before You Buy",
+          "description": "Hogwarts Legacy (PC, PS5, Xbox Series X/S) is an open world action RPG set within the world of Harry Potter. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv ▼\n\nVideo by Jake Baldino\n\nBuy Hogwarts Legacy: https://amzn.to/3RBx80l\n \n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6\n\n#hogwartslegacy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jfXebk4h6AR191BTyErBlFzv9iA",
+      "id": "lpN3tJTz9kE",
+      "snippet": {
+        "publishedAt": "2023-02-06T16:00:08Z",
+        "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+        "title": "Apex Legends: Revelry Launch Trailer",
+        "description": "To celebrate another anniversary of the Apex Games, Duardo Silva's throwing quite the party. But Mad Maggie never met a Syndicate event she didn't want to crash.\n\nhttp://x.ea.com/76084\n\nApex Legends is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\n#ApexLegendsRevelry #ApexRevelry #ApexLegends\n\nProduction Company: Electronic Arts, Respawn Entertainment & Psyop\nSound Design/Mix: Barking Owl\nAll other categories: Electronic Arts & Respawn Entertainment\n\nLearn more about Apex Legends: Revelry: http://x.ea.com/76084\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apex Legends",
+        "tags": [
+          "apex legends",
+          "apex",
+          "apex legends season 16",
+          "apex legends revelry",
+          "apex legends trailer",
+          "apex trailer",
+          "apex legends season 16 trailer",
+          "apex season 16",
+          "エーペックス",
+          "apex トレーラー",
+          "apex season 16 trailer",
+          "apex legends revelry launch trailer",
+          "revelry launch trailer",
+          "revelry trailer",
+          "apex revelry",
+          "revelry apex legends",
+          "new apex trailer",
+          "respawn apex legends",
+          "battle royale",
+          "apex legends ps4",
+          "apex legends xbox",
+          "apex legends pc",
+          "apex legends origin",
+          "respawn entertainment"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Apex Legends: Revelry Launch Trailer",
+          "description": "To celebrate another anniversary of the Apex Games, Duardo Silva's throwing quite the party. But Mad Maggie never met a Syndicate event she didn't want to crash.\n\nhttp://x.ea.com/76084\n\nApex Legends is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\n#ApexLegendsRevelry #ApexRevelry #ApexLegends\n\nProduction Company: Electronic Arts, Respawn Entertainment & Psyop\nSound Design/Mix: Barking Owl\nAll other categories: Electronic Arts & Respawn Entertainment\n\nLearn more about Apex Legends: Revelry: http://x.ea.com/76084\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5d2eG0s1cV0kK5zKRSzePKMaoXU",
+      "id": "EGDXvkriDZE",
+      "snippet": {
+        "publishedAt": "2023-02-07T03:25:06Z",
+        "channelId": "UCSy3TvvwAV12MD0rLsHyClQ",
+        "title": "Cody Rhodes and Paul Heyman Get Personal | WWE Raw Highlights 2/6/23 | WWE on USA",
+        "description": "An emotional and intense promo from Cody Rhodes and Paul Heyman. WWE Raw Highlights 2/6/23. Watch WWE Raw Monday nights at 8/7c on USA Network. WWE now streaming on Peacock.    \n\n►► SUBSCRIBE: https://usanet.tv/WWEonUSA-Sub\n►► WATCH FULL MATCHES NOW: https://usa.app.link/StreamWWE\n►► GET THE LATEST WWE NEWS: https://usanet.tv/GetMoreWWE                                                                       \n►► STREAM NOW ON PEACOCK: https://pck.tv/3s4aWyr \n►► VISIT USA’S OFFICIAL SITE: http://usanet.tv/USA_Website \n#WWERaw #highlight #RawHighlights\n\nAbout WWE Raw: \nWWE superstars invade your living room every Monday night as part of the longest-running episodic television program on cable TV. Watch new episodes of WWE Monday Night Raw Mondays at 8/7c on USA Network. WWE now streaming on Peacock.  \n\nAbout WWE on USA:\nUSA Network has been the home of WWE programming for decades, featuring spectacular live television with WWE Raw and NXT 2.0. RK-Bro (Randy Orton and Riddle), Seth Rollins, Edge, Becky Lynch, Bianca Belair, and other superstars of professional wrestling square off in the ring and behind the scenes. The big muscles are matched by the oversized personalities and feuds. If it's WWE Raw, it must be Monday. The future of WWE has arrived and it's on WWE NXT 2.0! The next generation of WWE athletes—including Mandy Rose, Johnny Gargano, and Raquel González, and Tomasso Ciampa—are mentored by popular WWE superstars as they battle their way to fame. It’s ALL about the action.\n\nGet More WWE: \nStream Now on Peacock: https://pck.tv/3s4aWyr \nVisit USA's Official Site: http://usanet.tv/USA_Website  \nWatch USA Full Episodes Here: https://usa.app.link/WatchUSA\nLike USA on Facebook: http://usanet.tv/USA_Facebook   \nFollow USA on Twitter: http://usanet.tv/USA_Twitter   \nFollow USA on Instagram: http://usanet.tv/USA_Instagram",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EGDXvkriDZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EGDXvkriDZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EGDXvkriDZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EGDXvkriDZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EGDXvkriDZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WWE on USA",
+        "tags": [
+          "WWE",
+          "WWE Raw",
+          "WWE Raw Highlights",
+          "WWE Raw Highlights Today",
+          "WWE Raw Highlights This Week",
+          "WWE Raw Highlights Top 10",
+          "Monday Night Raw",
+          "WWE Monday Night Raw Results",
+          "WWE Raw Full Show",
+          "WWE Raw Full Match",
+          "Paul Heyman",
+          "Cody Rhodes",
+          "Roman Reigns",
+          "The Bloodline",
+          "Wrestlemania",
+          "Dusty Rhodes"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cody Rhodes and Paul Heyman Get Personal | WWE Raw Highlights 2/6/23 | WWE on USA",
+          "description": "An emotional and intense promo from Cody Rhodes and Paul Heyman. WWE Raw Highlights 2/6/23. Watch WWE Raw Monday nights at 8/7c on USA Network. WWE now streaming on Peacock.    \n\n►► SUBSCRIBE: https://usanet.tv/WWEonUSA-Sub\n►► WATCH FULL MATCHES NOW: https://usa.app.link/StreamWWE\n►► GET THE LATEST WWE NEWS: https://usanet.tv/GetMoreWWE                                                                       \n►► STREAM NOW ON PEACOCK: https://pck.tv/3s4aWyr \n►► VISIT USA’S OFFICIAL SITE: http://usanet.tv/USA_Website \n#WWERaw #highlight #RawHighlights\n\nAbout WWE Raw: \nWWE superstars invade your living room every Monday night as part of the longest-running episodic television program on cable TV. Watch new episodes of WWE Monday Night Raw Mondays at 8/7c on USA Network. WWE now streaming on Peacock.  \n\nAbout WWE on USA:\nUSA Network has been the home of WWE programming for decades, featuring spectacular live television with WWE Raw and NXT 2.0. RK-Bro (Randy Orton and Riddle), Seth Rollins, Edge, Becky Lynch, Bianca Belair, and other superstars of professional wrestling square off in the ring and behind the scenes. The big muscles are matched by the oversized personalities and feuds. If it's WWE Raw, it must be Monday. The future of WWE has arrived and it's on WWE NXT 2.0! The next generation of WWE athletes—including Mandy Rose, Johnny Gargano, and Raquel González, and Tomasso Ciampa—are mentored by popular WWE superstars as they battle their way to fame. It’s ALL about the action.\n\nGet More WWE: \nStream Now on Peacock: https://pck.tv/3s4aWyr \nVisit USA's Official Site: http://usanet.tv/USA_Website  \nWatch USA Full Episodes Here: https://usa.app.link/WatchUSA\nLike USA on Facebook: http://usanet.tv/USA_Facebook   \nFollow USA on Twitter: http://usanet.tv/USA_Twitter   \nFollow USA on Instagram: http://usanet.tv/USA_Instagram"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t-5sUe63C4sW9j6O7N0bNzQxhcE",
+      "id": "g7lhR6jy5zM",
+      "snippet": {
+        "publishedAt": "2023-02-07T15:35:52Z",
+        "channelId": "UC5Qbo0AR3CwpmEq751BIy0g",
+        "title": "10 Things You SHOULD Be Buying at Costco in February 2023",
+        "description": "So many people have shopped at Costco but not taking advantage of the best products they have! Watch this video and see what you're missing out on in Costco February 2023! \n\nI've been shopping at Costco store for these items for years. People have been asking me for an Costco haul or another Costco secrets video and what things they should be specifically buying at Costco US, Costco Canada and Costco Australia. This 10 things you should buy at Costco video should help you find something of the best things costco store and costco shopping 2023.\n\nCheck out the Costco February Ad here: http://bit.ly/3rcBCMG\n\nIn this video The Deal Guy is showing you what to buy at costco and some of my favorite costco tips and hacks. This video should make you search Costco hours. You may have seen a video from the channel FlavCity, so I hope you find this video just as informative and you learn some Costco secrets so you can do your own costco haul.\n\nThis costco haul 2023 is a costco shop with me that is showing what is new at costco and the best costco deals. These Costco shopping secrets are things you should always buy at costco at costco 2023. I hope you enjoy this 2023 costco video!\n\n#Costco #CostcoTips #CostcoShopping #TheDealGuy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g7lhR6jy5zM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g7lhR6jy5zM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g7lhR6jy5zM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g7lhR6jy5zM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g7lhR6jy5zM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Deal Guy",
+        "tags": [
+          "the deal guy",
+          "costco",
+          "costco store",
+          "costco secrets",
+          "costco haul",
+          "costco shopping",
+          "costco shop with me",
+          "flavcity with bobby parrish",
+          "costco tips",
+          "costco shopping secrets",
+          "costco canada",
+          "costco australia",
+          "costco deals",
+          "costco 2023",
+          "2023 costco",
+          "what to buy at costco",
+          "10 things you should buy at costco",
+          "Things You Should ALWAYS Buy at Costco",
+          "best things costco",
+          "costco shopping 2023",
+          "new at costco",
+          "costco february 2023",
+          "costco february",
+          "february costco",
+          "february costco 2023"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "10 Things You SHOULD Be Buying at Costco in February 2023",
+          "description": "So many people have shopped at Costco but not taking advantage of the best products they have! Watch this video and see what you're missing out on in Costco February 2023! \n\nI've been shopping at Costco store for these items for years. People have been asking me for an Costco haul or another Costco secrets video and what things they should be specifically buying at Costco US, Costco Canada and Costco Australia. This 10 things you should buy at Costco video should help you find something of the best things costco store and costco shopping 2023.\n\nCheck out the Costco February Ad here: http://bit.ly/3rcBCMG\n\nIn this video The Deal Guy is showing you what to buy at costco and some of my favorite costco tips and hacks. This video should make you search Costco hours. You may have seen a video from the channel FlavCity, so I hope you find this video just as informative and you learn some Costco secrets so you can do your own costco haul.\n\nThis costco haul 2023 is a costco shop with me that is showing what is new at costco and the best costco deals. These Costco shopping secrets are things you should always buy at costco at costco 2023. I hope you enjoy this 2023 costco video!\n\n#Costco #CostcoTips #CostcoShopping #TheDealGuy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BFjzVlD3MMJLkcLlG0qLYcw1l0c",
+      "id": "F6dZxoob8CY",
+      "snippet": {
+        "publishedAt": "2023-02-06T11:00:12Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Hogwarts Legacy Review",
+        "description": "Hogwarts Legacy reviewed by Travis Northup on PlayStation 5, Xbox Series X, and PC.\nIn nearly every way, Hogwarts Legacy is the Harry Potter RPG I’ve always wanted to play. Its open-world adventure captures all the excitement and wonder of the Wizarding World with its memorable new characters, challenging and nuanced combat, and a wonderfully executed Hogwarts student fantasy that kept me glued to my controller for dozens of hours. It’s certainly weighed down by technical issues, a lackluster main story, and some poor enemy variety, but even those couldn’t come close to breaking its enchanting spell over me.\n\n#HogwartsLegacy #HogwartsLegacyReview",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6dZxoob8CY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6dZxoob8CY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6dZxoob8CY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6dZxoob8CY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6dZxoob8CY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IGN",
+        "tags": [
+          "Action",
+          "Avalanche Software",
+          "Harry Potter",
+          "Hogwarts Legacy",
+          "RPG",
+          "Warner Bros. Games",
+          "Wizarding World",
+          "hogwarts legacy review",
+          "new harry potter game",
+          "harry potter game",
+          "hogwarts legacy ign review",
+          "hogwarts legacy",
+          "hogwarts legacy gameplay",
+          "ign",
+          "harry potter"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hogwarts Legacy Review",
+          "description": "Hogwarts Legacy reviewed by Travis Northup on PlayStation 5, Xbox Series X, and PC.\nIn nearly every way, Hogwarts Legacy is the Harry Potter RPG I’ve always wanted to play. Its open-world adventure captures all the excitement and wonder of the Wizarding World with its memorable new characters, challenging and nuanced combat, and a wonderfully executed Hogwarts student fantasy that kept me glued to my controller for dozens of hours. It’s certainly weighed down by technical issues, a lackluster main story, and some poor enemy variety, but even those couldn’t come close to breaking its enchanting spell over me.\n\n#HogwartsLegacy #HogwartsLegacyReview"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i4sFtUmEi44fIy14tJ3ydBhjoWU",
+      "id": "4zF-4LwCEHk",
+      "snippet": {
+        "publishedAt": "2023-02-06T21:00:02Z",
+        "channelId": "UCnM1ay_QoQOpa1N2iejLA7A",
+        "title": "Finding Out I'm Pregnant!",
+        "description": "Finding Out I'm Pregnant! So happy we can finally share all of this with the jatie fam, feels like we've been keeping it a secret for so long! \n\nALL THINGS JATIE: https://linktr.ee/katiebrueckner\nJATIE VIP: https://www.jatievip.com/\n\nJATIE BRANDS: Help Support us and look good while doing it!!\nJ80Fit: https://j80fitness.com/\nJatie Beauty: https://www.jatiebeauty.com/\n\nShop Katies Amazon Store Front: https://www.amazon.com/shop/katiebrueckner\n\nFollow us on Social Media for more content:\nIG: @joshbrueckner & @katiebrueckner\nFitness IG & Tiktok: joshxkatiefit\nTiktok: @joshxkatie\nKatie B Channel: https://www.youtube.com/c/KatieBetzing\nFitness Channel: https://www.youtube.com/channel/UCvy9JhEmES8O_4tje3WH-AQ\n\nBusiness inquiries: j80vlogs@gmail.com\n\n#jatie #jatievlogs #joshandkatie",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4zF-4LwCEHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4zF-4LwCEHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4zF-4LwCEHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4zF-4LwCEHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4zF-4LwCEHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jatie Vlogs",
+        "tags": [
+          "jatie vlogs",
+          "jatie",
+          "jatie vlogs pranks",
+          "josh and katie",
+          "josh brueckner",
+          "katie betzing",
+          "relationship",
+          "couples",
+          "cute",
+          "cute couples",
+          "finding out im pregnant",
+          "weree pregnant",
+          "were pregnant",
+          "pregnant",
+          "pregnancy",
+          "telling my husband im pregnant",
+          "jatie vlogs pregnant",
+          "josh and katie pregnant",
+          "katie betzing pregnant",
+          "pregnancy journey",
+          "pregnant journey",
+          "im pregnant",
+          "finding out im pregnant for the first time",
+          "were pregnant jatie vlogs",
+          "were pregnant jatie",
+          "jatie pregnancy announcement"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Finding Out I'm Pregnant!",
+          "description": "Finding Out I'm Pregnant! So happy we can finally share all of this with the jatie fam, feels like we've been keeping it a secret for so long! \n\nALL THINGS JATIE: https://linktr.ee/katiebrueckner\nJATIE VIP: https://www.jatievip.com/\n\nJATIE BRANDS: Help Support us and look good while doing it!!\nJ80Fit: https://j80fitness.com/\nJatie Beauty: https://www.jatiebeauty.com/\n\nShop Katies Amazon Store Front: https://www.amazon.com/shop/katiebrueckner\n\nFollow us on Social Media for more content:\nIG: @joshbrueckner & @katiebrueckner\nFitness IG & Tiktok: joshxkatiefit\nTiktok: @joshxkatie\nKatie B Channel: https://www.youtube.com/c/KatieBetzing\nFitness Channel: https://www.youtube.com/channel/UCvy9JhEmES8O_4tje3WH-AQ\n\nBusiness inquiries: j80vlogs@gmail.com\n\n#jatie #jatievlogs #joshandkatie"
+        },
+        "defaultAudioLanguage": "es-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SBskUaG6JhDcXhDXSsFjkajGj20",
+      "id": "VbqoH1zK40U",
+      "snippet": {
+        "publishedAt": "2023-02-07T17:43:37Z",
+        "channelId": "UCvgfXK4nTYKudb0rFR6noLA",
+        "title": "UFC 284 Embedded: Vlog Series - Episode 2",
+        "description": "Champ Alexander Volkanovski trains for five rounds and travels in style. Champion Islam Makhachev relaxes on the water. Randy Brown and Josh Emmett sightsee. UFC 284 is on Saturday, February 11.\n\n\nSubscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp\n\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\n\nTo order UFC Pay-Per-Views on ESPN+, visit https://ufc.ac/3NKBvmx (U.S. only)\n\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\n\n👉 Shop official UFC Gear, visit https://ufcstore.com\n👉 Shop official UFC Memorabilia, visit https://ufccollectibles.com\n👉 Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH\n\nConnect with UFC online and on Social:\n🔴 Website: http://www.ufc.com\n🔵 Twitter: http://www.twitter.com/ufc\n🔵 Facebook: http://www.facebook.com/ufc\n🔴 Instagram: http://www.instagram.com/ufc\n🟡 Snapchat: UFC\n🟣 Twitch: https://www.twitch.tv/ufc\n\nConnect with UFC FIGHT PASS on Social:\n🔵 Twitter: http://www.twitter.com/ufcfightpass\n🔵 Facebook: http://www.facebook.com/ufcfightpass\n🔴 Instagram: http://www.instagram.com/ufcfightpass\n\n#UFC #UFC284",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VbqoH1zK40U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VbqoH1zK40U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbqoH1zK40U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VbqoH1zK40U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VbqoH1zK40U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "UFC - Ultimate Fighting Championship",
+        "tags": [
+          "ufc",
+          "mma",
+          "ultimate fighting championship",
+          "ppv",
+          "Champion",
+          "championship",
+          "hill",
+          "284",
+          "Islam Makhachev",
+          "Alexander The Great",
+          "Volkanovski",
+          "Yair El Pantera",
+          "Rodriguez",
+          "Josh “CC0” Emmett",
+          "Jack Della Maddalena",
+          "Randy Rudeboy Brown",
+          "Lightweight",
+          "Featherweight",
+          "Welterweight",
+          "Justin Bad Man",
+          "Tafa",
+          "Heavyweight",
+          "Parker Porter"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "UFC 284 Embedded: Vlog Series - Episode 2",
+          "description": "Champ Alexander Volkanovski trains for five rounds and travels in style. Champion Islam Makhachev relaxes on the water. Randy Brown and Josh Emmett sightsee. UFC 284 is on Saturday, February 11.\n\n\nSubscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp\n\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\n\nTo order UFC Pay-Per-Views on ESPN+, visit https://ufc.ac/3NKBvmx (U.S. only)\n\nTo order UFC Pay-Per-Views, visit http://welcome.ufcfightpass.com/#PPV (Non U.S.)\n\n👉 Shop official UFC Gear, visit https://ufcstore.com\n👉 Shop official UFC Memorabilia, visit https://ufccollectibles.com\n👉 Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH\n\nConnect with UFC online and on Social:\n🔴 Website: http://www.ufc.com\n🔵 Twitter: http://www.twitter.com/ufc\n🔵 Facebook: http://www.facebook.com/ufc\n🔴 Instagram: http://www.instagram.com/ufc\n🟡 Snapchat: UFC\n🟣 Twitch: https://www.twitch.tv/ufc\n\nConnect with UFC FIGHT PASS on Social:\n🔵 Twitter: http://www.twitter.com/ufcfightpass\n🔵 Facebook: http://www.facebook.com/ufcfightpass\n🔴 Instagram: http://www.instagram.com/ufcfightpass\n\n#UFC #UFC284"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2ePrGLhlVrM_l83WIj-pF5wxJgs",
+      "id": "UiIRlg4Xr5w",
+      "snippet": {
+        "publishedAt": "2023-02-05T07:01:46Z",
+        "channelId": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "HBO Mario Kart Trailer - SNL",
+        "description": "In a video game turned series, a trailer follows a group of people as they try to help a princess get to Rainbow Road.\n\nSaturday Night Live. Stream now on Peacock: https://pck.tv/3uQxh4q\n\nSubscribe to SNL: https://goo.gl/tUsXwM\nStream Current Full Episodes: http://www.nbc.com/saturday-night-live\n\nWATCH PAST SNL SEASONS\nGoogle Play - http://bit.ly/SNLGooglePlay\niTunes - http://bit.ly/SNLiTunes\n\nSNL ON SOCIAL\nSNL Instagram: http://instagram.com/nbcsnl\nSNL Facebook: https://www.facebook.com/snl\nSNL Twitter: https://twitter.com/nbcsnl\nSNL TikTok: https://www.tiktok.com/@nbcsnl\n\nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n\n#SNL #PedroPascal #SNL48 #Coldplay",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Saturday Night Live",
+        "tags": [
+          "SNL02042023",
+          "snl",
+          "saturday night live",
+          "snl 48",
+          "saturday night live season 48",
+          "pedro pascal",
+          "snl host pedro pascal",
+          "heidi gardner",
+          "chloe fineman",
+          "mikey day",
+          "kenan thompson",
+          "james austin johnson",
+          "bowen yang",
+          "marcello hernández",
+          "super mario",
+          "super mario kart",
+          "the super mario bros movie",
+          "super mario bros",
+          "coldplay",
+          "cold play",
+          "the last of us",
+          "the mandalorian",
+          "narcos",
+          "game of thrones",
+          "wonder woman",
+          "the scientist",
+          "yellow",
+          "adventure of a lifetime",
+          "clocks",
+          "kingsman",
+          "pedro pascal snl"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HBO Mario Kart Trailer - SNL",
+          "description": "In a video game turned series, a trailer follows a group of people as they try to help a princess get to Rainbow Road.\n\nSaturday Night Live. Stream now on Peacock: https://pck.tv/3uQxh4q\n\nSubscribe to SNL: https://goo.gl/tUsXwM\nStream Current Full Episodes: http://www.nbc.com/saturday-night-live\n\nWATCH PAST SNL SEASONS\nGoogle Play - http://bit.ly/SNLGooglePlay\niTunes - http://bit.ly/SNLiTunes\n\nSNL ON SOCIAL\nSNL Instagram: http://instagram.com/nbcsnl\nSNL Facebook: https://www.facebook.com/snl\nSNL Twitter: https://twitter.com/nbcsnl\nSNL TikTok: https://www.tiktok.com/@nbcsnl\n\nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n\n#SNL #PedroPascal #SNL48 #Coldplay"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TOLJpq9mQRh_fq6LBZkxXIolLC0",
+      "id": "ta4UnmpxC-Y",
+      "snippet": {
+        "publishedAt": "2023-02-07T17:01:23Z",
+        "channelId": "UCwtnkRZcvL4bfopzJ-Von8Q",
+        "title": "Vanessa’s Surprise Bachelorette Party! - Merrell Twins",
+        "description": "We threw Nessa a surprise bachelorette party!!! We had so much fun!! \nSUBSCRIBE TO OUR CHANNEL ▶ http://bit.ly/2dSP9Fg \nMake sure to subscribe to our friends!  @nezza @FrannyArrieta @closetraid \n\nMERRELL TWINS LIVE CHANNEL ▶ https://bit.ly/2Etvdbt\nOUR MERCH ▶ https://fanjoy.co/collections/merrell-twins\n\nFOLLOW US ON SOCIAL MEDIA\nMERRELL TWINS\nINSTAGRAM:▶ http://instagram.com/MerrellTwins\nTWITTER: ▶https://twitter.com/MerrellTwins\nFACEBOOK: https://www.facebook.com/MerrellTwins\nWEBSITE: www.merrelltwins.com\n \nVANESSA MERRELL\nINSTAGRAM: ▶http://instagram.com/vanessamerrell\nTWITTER: ▶https://twitter.com/VanessaMerrell\nTIKTOK: @vanessamerrell\n \nVERONICA MERRELL\nINSTAGRAM:▶http://instagram.com/veronicamerrell\nTWITTER: ▶https://twitter.com/veronicamerrell\nTIKTOK: @veronicamerrell\n\nVanessa & John's Music @butterflytiger \n\n#surprise #party #bachelorette",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ta4UnmpxC-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ta4UnmpxC-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ta4UnmpxC-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ta4UnmpxC-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ta4UnmpxC-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "merrelltwins",
+        "tags": [
+          "Merrell Twins",
+          "Twins",
+          "Merrell",
+          "Veronica Merrell",
+          "Vanessa Merrell",
+          "Twin",
+          "Comedy",
+          "Family Friendly",
+          "getting married",
+          "proposal",
+          "bachelorette",
+          "party",
+          "Vanessa",
+          "Veronica",
+          "Franny",
+          "Nezza",
+          "merrell twins tiktok",
+          "twinner",
+          "paul merrell",
+          "ronron",
+          "identical twin sisters",
+          "sisters",
+          "vlog",
+          "twinners are winners",
+          "franny arrieta"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Vanessa’s Surprise Bachelorette Party! - Merrell Twins",
+          "description": "We threw Nessa a surprise bachelorette party!!! We had so much fun!! \nSUBSCRIBE TO OUR CHANNEL ▶ http://bit.ly/2dSP9Fg \nMake sure to subscribe to our friends!  @nezza @FrannyArrieta @closetraid \n\nMERRELL TWINS LIVE CHANNEL ▶ https://bit.ly/2Etvdbt\nOUR MERCH ▶ https://fanjoy.co/collections/merrell-twins\n\nFOLLOW US ON SOCIAL MEDIA\nMERRELL TWINS\nINSTAGRAM:▶ http://instagram.com/MerrellTwins\nTWITTER: ▶https://twitter.com/MerrellTwins\nFACEBOOK: https://www.facebook.com/MerrellTwins\nWEBSITE: www.merrelltwins.com\n \nVANESSA MERRELL\nINSTAGRAM: ▶http://instagram.com/vanessamerrell\nTWITTER: ▶https://twitter.com/VanessaMerrell\nTIKTOK: @vanessamerrell\n \nVERONICA MERRELL\nINSTAGRAM:▶http://instagram.com/veronicamerrell\nTWITTER: ▶https://twitter.com/veronicamerrell\nTIKTOK: @veronicamerrell\n\nVanessa & John's Music @butterflytiger \n\n#surprise #party #bachelorette"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T-xLAAPZT9yPdCeXrrY-yBMrC24",
+      "id": "MNX1wV9UfL4",
+      "snippet": {
+        "publishedAt": "2023-02-06T17:40:15Z",
+        "channelId": "UClOf1XXinvZsy4wKPAkro2A",
+        "title": "Season 3 Trailer | Overwatch 2",
+        "description": "Overwatch 2 Season 3 arrives February 7! \n\nExperience an all-new Battle Pass with more ways to earn rewards, including legendary and mythic skins inspired by Asian mythology. \n\nBundle up as you make your way through Antarctic Peninsula, a New Control map.\n\nEarn in game credits as free rewards, just by playing.\n\nBattle through one-of-a-kind limited time modes and experience seasonal events. \n\nOverwatch 2 x One-Punch Man 👊\n\nOverwatch 2 is free to play for everyone on console & PC!\n\n©ONE, Yusuke Murata/SHUEISHA, Hero Association HQ\n\n_\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PlayOverwatch",
+        "tags": ["Overwatch 2", "Overwatch"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Season 3 Trailer | Overwatch 2",
+          "description": "Overwatch 2 Season 3 arrives February 7! \n\nExperience an all-new Battle Pass with more ways to earn rewards, including legendary and mythic skins inspired by Asian mythology. \n\nBundle up as you make your way through Antarctic Peninsula, a New Control map.\n\nEarn in game credits as free rewards, just by playing.\n\nBattle through one-of-a-kind limited time modes and experience seasonal events. \n\nOverwatch 2 x One-Punch Man 👊\n\nOverwatch 2 is free to play for everyone on console & PC!\n\n©ONE, Yusuke Murata/SHUEISHA, Hero Association HQ\n\n_\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rKSYN6RvXXcsfKiacWHvPhu1qoc",
+      "id": "26CL413zVFg",
+      "snippet": {
+        "publishedAt": "2023-02-07T17:00:01Z",
+        "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
+        "title": "A Skeptic Tries Hogwarts Legacy",
+        "description": "All my links: https://linktr.ee/lukestephens\n----------------------------------------------------------------\nFollow all my other accounts or I'll start doing hot-tub streams.\n•  Twitter - https://twitter.com/LukeStephensTV\n•  Instagram - https://www.instagram.com/LukeStephensTV\n • Our Discord Server: https://discord.gg/5ZYbXPf\n•  Main Channel:  @LukeStephensTV  \n•  Live Channel:  @lukestephenslive  \n--------------------------------------------------------------------\nHogwarts Legacy is an action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels. \n\nHogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. For the first time, experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Your legacy is what you make of it.\n--------------------------------------------------------------------\n███ █┼█ ██▄ ███ ███ ███ ███ ██▄ ███\n█▄▄ █┼█ █▄█ █▄▄ █┼┼ █▄┼ ┼█┼ █▄█ █▄┼\n▄▄█ ███ █▄█ ▄▄█ ███ █┼█ ▄█▄ █▄█ █▄▄\n--------------------------------------------------------------------\nSubscribe and I'll be your bestest friend!\n#hogwartslegacy #harrypotter #gaming #lukestephens",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/26CL413zVFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/26CL413zVFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/26CL413zVFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/26CL413zVFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/26CL413zVFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Luke Stephens",
+        "tags": [
+          "luke stephens",
+          "Luke Stephens Hogwarts legacy",
+          "Hogwarts legacy gameplay",
+          "Hogwarts legacy pc",
+          "I tried Hogwarts legacy"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "A Skeptic Tries Hogwarts Legacy",
+          "description": "All my links: https://linktr.ee/lukestephens\n----------------------------------------------------------------\nFollow all my other accounts or I'll start doing hot-tub streams.\n•  Twitter - https://twitter.com/LukeStephensTV\n•  Instagram - https://www.instagram.com/LukeStephensTV\n • Our Discord Server: https://discord.gg/5ZYbXPf\n•  Main Channel:  @LukeStephensTV  \n•  Live Channel:  @lukestephenslive  \n--------------------------------------------------------------------\nHogwarts Legacy is an action role-playing game developed by Avalanche Software and published by Warner Bros. Games under its Portkey Games label. The game is set in the Wizarding World universe, based on the Harry Potter novels. \n\nHogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. For the first time, experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. Now you can take control of the action and be at the center of your own adventure in the wizarding world. Your legacy is what you make of it.\n--------------------------------------------------------------------\n███ █┼█ ██▄ ███ ███ ███ ███ ██▄ ███\n█▄▄ █┼█ █▄█ █▄▄ █┼┼ █▄┼ ┼█┼ █▄█ █▄┼\n▄▄█ ███ █▄█ ▄▄█ ███ █┼█ ▄█▄ █▄█ █▄▄\n--------------------------------------------------------------------\nSubscribe and I'll be your bestest friend!\n#hogwartslegacy #harrypotter #gaming #lukestephens"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yVbWJ-SpLBAOcrQFwEdYLX8slPo",
+      "id": "t65tbfU9sCI",
+      "snippet": {
+        "publishedAt": "2023-02-07T14:00:35Z",
+        "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+        "title": "Why Some Roadways Are Made of Styrofoam",
+        "description": "What do you do when soil is too heavy for the job? Use lightweight backfill!\n🥑 For 65% off with HelloFresh PLUS free shipping, use code PRACTICAL65 at https://bit.ly/3D5GV8S\n\nOver the years, engineers have come up with a lot of creative ways to mitigate the settlement of heavy stuff on soft soils, but one of those solutions seems so simple that it’s almost unbelievable: just make embankments less heavy.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-why-some-roadways-are-made-of-styrofoam\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by HelloFresh.\nStock video and imagery provided by Getty Images, Shutterstock, Pond5, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nProducer/Writer/Host: Grady Hillhouse\nEditor: Wesley Crump\nProduction Assistant: Josh Lorenz\nScript Editor: Ralph Crewe\nBackground Painting: Josh Welker\nGraphics: Nebula Studios\nCell-Crete Email: info@cell-crete.com\nCell-Crete Website: https://www.cell-crete.com/\nGerhart Cole (Geotechnical Engineer) email: ryanm@gerhartcole.com\nFoamed glass aggregate provided by Glavel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t65tbfU9sCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t65tbfU9sCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t65tbfU9sCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t65tbfU9sCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t65tbfU9sCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Practical Engineering",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why Some Roadways Are Made of Styrofoam",
+          "description": "What do you do when soil is too heavy for the job? Use lightweight backfill!\n🥑 For 65% off with HelloFresh PLUS free shipping, use code PRACTICAL65 at https://bit.ly/3D5GV8S\n\nOver the years, engineers have come up with a lot of creative ways to mitigate the settlement of heavy stuff on soft soils, but one of those solutions seems so simple that it’s almost unbelievable: just make embankments less heavy.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-why-some-roadways-are-made-of-styrofoam\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by HelloFresh.\nStock video and imagery provided by Getty Images, Shutterstock, Pond5, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nProducer/Writer/Host: Grady Hillhouse\nEditor: Wesley Crump\nProduction Assistant: Josh Lorenz\nScript Editor: Ralph Crewe\nBackground Painting: Josh Welker\nGraphics: Nebula Studios\nCell-Crete Email: info@cell-crete.com\nCell-Crete Website: https://www.cell-crete.com/\nGerhart Cole (Geotechnical Engineer) email: ryanm@gerhartcole.com\nFoamed glass aggregate provided by Glavel."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iXzApr9gfNyqfiohTpP-mIRJsC0",
+      "id": "GL55IAacYTM",
+      "snippet": {
+        "publishedAt": "2023-02-07T17:00:08Z",
+        "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+        "title": "HAPPY BIRTHDAY",
+        "description": "HAPPY BIRTHDAY",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GL55IAacYTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GL55IAacYTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GL55IAacYTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GL55IAacYTM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GL55IAacYTM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "jacksepticeye",
+        "tags": ["jacksepticeye"],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HAPPY BIRTHDAY",
+          "description": "HAPPY BIRTHDAY"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wef6fbZmFegyZkV1Mrre4Xjs1F0",
+      "id": "hQB8ZOjK84U",
+      "snippet": {
+        "publishedAt": "2023-02-06T23:35:00Z",
+        "channelId": "UCVfZ9DBwQM6gBiqbxHOJKfw",
+        "title": "I'M PREGNANT...",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQB8ZOjK84U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQB8ZOjK84U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQB8ZOjK84U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQB8ZOjK84U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQB8ZOjK84U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "_lilbaby_lexi",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I'M PREGNANT...",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5jCwPaX8GlUZbu5DTv10kENXa9U",
+      "id": "i_ujOtLDQco",
+      "snippet": {
+        "publishedAt": "2023-02-07T16:00:24Z",
+        "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+        "title": "Finality: Aurelion Sol | Champion Update Trailer - League of Legends",
+        "description": "The dawn of your cosmos is over. Only I and the stars will remain. \n\n\nAurelion Sol Abilities Rundown\nhttps://www.leagueoflegends.com/en-us/event/aurelion-sol-abilities-rundown/ \n\nAurelion Sol Dev Video\nhttps://www.youtube.com/watch?v=dx4-4AfjULY\n\nAurelion Sol Champion Page\nhttps://www.leagueoflegends.com/en-us/champions/aurelion-sol/ \n\nAurelion Sol Cinematic\nhttps://www.youtube.com/watch?v=CAAnY_L4Pp4\n\nAurelion Sol Music Theme\nhttps://www.youtube.com/watch?v=ApCoJeatwac\n\n\nLeague of Legends Sign Up & Download\nhttps://signup.leagueoflegends.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_ujOtLDQco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_ujOtLDQco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_ujOtLDQco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_ujOtLDQco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_ujOtLDQco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "League of Legends",
+        "tags": [
+          "Riot Games",
+          "Riot",
+          "League of Legends",
+          "League",
+          "LoL",
+          "MOBA",
+          "league of legends",
+          "league",
+          "lol",
+          "aurelion sol",
+          "asol",
+          "dragon of the rift",
+          "cosmos dragon",
+          "the star forger",
+          "star forger",
+          "targon",
+          "targon champion",
+          "dragon champion",
+          "champion cinematic",
+          "league cinematic",
+          "champ cinematic",
+          "mid lane",
+          "mid lane mage",
+          "cinematic",
+          "aurelion sol lore",
+          "lore",
+          "finality",
+          "animation",
+          "video"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Finality: Aurelion Sol | Champion Update Trailer - League of Legends",
+          "description": "The dawn of your cosmos is over. Only I and the stars will remain. \n\n\nAurelion Sol Abilities Rundown\nhttps://www.leagueoflegends.com/en-us/event/aurelion-sol-abilities-rundown/ \n\nAurelion Sol Dev Video\nhttps://www.youtube.com/watch?v=dx4-4AfjULY\n\nAurelion Sol Champion Page\nhttps://www.leagueoflegends.com/en-us/champions/aurelion-sol/ \n\nAurelion Sol Cinematic\nhttps://www.youtube.com/watch?v=CAAnY_L4Pp4\n\nAurelion Sol Music Theme\nhttps://www.youtube.com/watch?v=ApCoJeatwac\n\n\nLeague of Legends Sign Up & Download\nhttps://signup.leagueoflegends.com/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Li_ddbf7PKxoafnW8QYSrmczV_s",
+      "id": "sI9NtdJctaI",
+      "snippet": {
+        "publishedAt": "2023-02-06T23:30:07Z",
+        "channelId": "UCmSQ47G2NHhcjRAm9Px6R3g",
+        "title": "P!NK & Kelly Clarkson Duet 'Please Don't Leave Me': Songs & Stories Part 2",
+        "description": "P!NK opens up about her relationship with her husband Carey Hart, and reveals his hilarious reaction to one of the new songs written about him on her upcoming ninth album \"Trustfall.\" P!NK and Kelly also perform a duet of her \"most humble love song,\" \"Please Don't Leave Me.\" P!NK also dishes on performing with Pat Benatar, Brandi Carlile, Gwen Stefani and more on her upcoming world tour, and shares how protest music from the '60s has inspired her own work.\n\n#KellyClarksonShow #PINK\n\nSubscribe to The Kelly Clarkson Show: https://bit.ly/2OtOpf8\n \nFOLLOW US\nInstagram: https://www.instagram.com/kellyclarksonshow/\nTwitter: https://twitter.com/KellyClarksonTV \nFacebook: https://www.facebook.com/KellyClarksonShow/\n \nFor even more fun stuff, visit https://www.kellyclarksonshow.com/\n \nThe Kelly Clarkson Show is the uplifting daytime destination for humor and connection featuring Emmy-winning talk show, Grammy-winning artist and America’s original idol, Kelly Clarkson.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sI9NtdJctaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sI9NtdJctaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sI9NtdJctaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sI9NtdJctaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sI9NtdJctaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Kelly Clarkson Show",
+        "tags": [
+          "P!NK",
+          "Kelly Clarkson",
+          "Justin Derrico",
+          "Trustfall",
+          "pink",
+          "The Kelly Clarkson Show",
+          "NBC",
+          "talk show",
+          "American Idol",
+          "The Voice",
+          "singer",
+          "musician",
+          "NBC TV",
+          "Television",
+          "Funny",
+          "comedic",
+          "humor",
+          "jokes",
+          "funny video",
+          "interview",
+          "variety",
+          "talent",
+          "celebrities",
+          "songs",
+          "Pink",
+          "What About Us",
+          "just give me a reason",
+          "so what",
+          "a million dreams",
+          "lady marmalade",
+          "cover me in sunshine",
+          "just like fire",
+          "the truth about love",
+          "Songs and Stories",
+          "Carey Hart",
+          "Pat Benatar",
+          "Brandi Carlile",
+          "Gwen Stefani",
+          "Please Don't Leave Me"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "P!NK & Kelly Clarkson Duet 'Please Don't Leave Me': Songs & Stories Part 2",
+          "description": "P!NK opens up about her relationship with her husband Carey Hart, and reveals his hilarious reaction to one of the new songs written about him on her upcoming ninth album \"Trustfall.\" P!NK and Kelly also perform a duet of her \"most humble love song,\" \"Please Don't Leave Me.\" P!NK also dishes on performing with Pat Benatar, Brandi Carlile, Gwen Stefani and more on her upcoming world tour, and shares how protest music from the '60s has inspired her own work.\n\n#KellyClarksonShow #PINK\n\nSubscribe to The Kelly Clarkson Show: https://bit.ly/2OtOpf8\n \nFOLLOW US\nInstagram: https://www.instagram.com/kellyclarksonshow/\nTwitter: https://twitter.com/KellyClarksonTV \nFacebook: https://www.facebook.com/KellyClarksonShow/\n \nFor even more fun stuff, visit https://www.kellyclarksonshow.com/\n \nThe Kelly Clarkson Show is the uplifting daytime destination for humor and connection featuring Emmy-winning talk show, Grammy-winning artist and America’s original idol, Kelly Clarkson."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eIbV9SXxQv_f9effK343mgl6O7c",
+      "id": "TF1NvCwTZqo",
+      "snippet": {
+        "publishedAt": "2023-02-06T18:00:09Z",
+        "channelId": "UCQH4V9PiY_eLo4Ihr1tWCwQ",
+        "title": "Overwatch 2  - EVERY HERO CHANGE for SEASON 3",
+        "description": "Find friends and teammates with GamerLink, the #1 LFG app available for FREE on iOS and Android!\nhttps://gamerlink.app/KarQ\n\nThis is the Overwatch 2 patch preview for SEASON 3 coverage by KARQ\nhttps://us.forums.blizzard.com/en/overwatch/t/overwatch-2-retail-patch-notes-february-7-2023/781229\n\nThey will *officially* post them when the season actually starts at 11am PST / 2pm EST on February 7, 2023.\n\n0:00 - Intro\n\n1:00 - Global Passive Change\n1:08 - Tank Passive Change\n\n1:38 - D.Va\n1:46 - Doomfist\n1:53 - Junker Queen\n2:09 - Orisa\n2:37 - Ramattra\n3:07 - Reinhardt\n4:21 - Roadhog\n4:36 - Sigma\n4:46 - Winston\n4:56 - Wrecking Ball\n5:49 - Zarya\n\n6:02 - Cassidy\n6:22 - Junkrat\n6:56 - Mei\n7:00 - Pharah\n7:04 - Reaper\n7:08 - Soldier:76 \n7:46 - Sombra\n8:00 - Symmetra\n8:06 - Torbjorn\n8:12 - Widowmaker\n\n8:18 - Ana\n8:24 - Brigitte\n9:00 - Lucio\n9:06 - Mercy\n10:45 - Moira\n10:49 - Zenyatta\n\n10:54 - SEASON 3 Map Pools\n\n11:43 - NEW Settings\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔴 Twitch: https://twitch.tv/KarQ \n🔔 KarQives (2nd Channel): https://youtube.com/@karqives\n👄 KarQlips (Clips Channel): https://www.youtube.com/@KarQlips\n📽️ TikTok: https://www.tiktok.com/@karqgames\n📸 Instagram: http://instagram.com/KarQGames\n🐦 Twitter: https://www.twitter.com/KarQGames\n💬 Discord: https://discord.gg/karq\n👕Merch: https://karqgames.com\n💼 Business Inquiries: karqgaming@gmail.com\n\n📸 Current Gear/Camera Setup\nCAN: https://www.amazon.ca/shop/karqgames\nUSA: https://www.amazon.com/shop/karqgames\nUK: https://www.amazon.co.uk/shop/karqgames\n\nAssistance:\n- KarQ\n- Kojinatu | https://twitch.tv/kojinatu\n- Urzu\n-  @Skiesti \n-  @Niandra \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n♫ GetSix \nhttps://soundcloud.com/getsixofficial\n\n#overwatch2 #overwatch2news #overwatch2patch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KarQ",
+        "tags": [
+          "overwatch 2",
+          "Overwatch 2 news",
+          "overwatch 2 patch notes",
+          "overwatch 2 season 3",
+          "ow2 s3 patch",
+          "overwatch 2 changes so far",
+          "overwatch 2 season 3 changes",
+          "overwatch 2 balance",
+          "overwatch 2 map pools"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Overwatch 2  - EVERY HERO CHANGE for SEASON 3",
+          "description": "Find friends and teammates with GamerLink, the #1 LFG app available for FREE on iOS and Android!\nhttps://gamerlink.app/KarQ\n\nThis is the Overwatch 2 patch preview for SEASON 3 coverage by KARQ\nhttps://us.forums.blizzard.com/en/overwatch/t/overwatch-2-retail-patch-notes-february-7-2023/781229\n\nThey will *officially* post them when the season actually starts at 11am PST / 2pm EST on February 7, 2023.\n\n0:00 - Intro\n\n1:00 - Global Passive Change\n1:08 - Tank Passive Change\n\n1:38 - D.Va\n1:46 - Doomfist\n1:53 - Junker Queen\n2:09 - Orisa\n2:37 - Ramattra\n3:07 - Reinhardt\n4:21 - Roadhog\n4:36 - Sigma\n4:46 - Winston\n4:56 - Wrecking Ball\n5:49 - Zarya\n\n6:02 - Cassidy\n6:22 - Junkrat\n6:56 - Mei\n7:00 - Pharah\n7:04 - Reaper\n7:08 - Soldier:76 \n7:46 - Sombra\n8:00 - Symmetra\n8:06 - Torbjorn\n8:12 - Widowmaker\n\n8:18 - Ana\n8:24 - Brigitte\n9:00 - Lucio\n9:06 - Mercy\n10:45 - Moira\n10:49 - Zenyatta\n\n10:54 - SEASON 3 Map Pools\n\n11:43 - NEW Settings\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔴 Twitch: https://twitch.tv/KarQ \n🔔 KarQives (2nd Channel): https://youtube.com/@karqives\n👄 KarQlips (Clips Channel): https://www.youtube.com/@KarQlips\n📽️ TikTok: https://www.tiktok.com/@karqgames\n📸 Instagram: http://instagram.com/KarQGames\n🐦 Twitter: https://www.twitter.com/KarQGames\n💬 Discord: https://discord.gg/karq\n👕Merch: https://karqgames.com\n💼 Business Inquiries: karqgaming@gmail.com\n\n📸 Current Gear/Camera Setup\nCAN: https://www.amazon.ca/shop/karqgames\nUSA: https://www.amazon.com/shop/karqgames\nUK: https://www.amazon.co.uk/shop/karqgames\n\nAssistance:\n- KarQ\n- Kojinatu | https://twitch.tv/kojinatu\n- Urzu\n-  @Skiesti \n-  @Niandra \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n♫ GetSix \nhttps://soundcloud.com/getsixofficial\n\n#overwatch2 #overwatch2news #overwatch2patch"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_IgbIxzzpVALGWykTW6j3mVCXFw",
+      "id": "5Hdi-2ulrVM",
+      "snippet": {
+        "publishedAt": "2023-02-06T16:00:11Z",
+        "channelId": "UCt9nYeSz90lnOnaVFjxFJzw",
+        "title": "Courage went UNDERCOVER in Nick Eh 30's fashion show!",
+        "description": "100 player Fortnite fashion show with @CouRageJD going undercover! (Chapter 4 Season 1)\n• Thank you PlayStation for sponsoring! Check out the DualSense Edge wireless controller → https://www.inflcr.co/SHGQn [ad]\n\n━━━━━━━━━━━━━\n\n• 0:00 Fashion Show Intro\n• 0:24 Round 1 - OG (Season 1)\n• 2:31 Round 2 - Knights (Season 2)\n• 5:48 PlayStation Sponsored Segment\n• 7:28 Round 3 - Space (Season 3)\n• 10:01 Round 4 - Superhero (Season 4)\n• 12:48 Round 5 - Graffiti (Season 5) \n• 15:04 Round 6 - Cube vs Winter (Season 6 & 7)\n• 17:37 Round 7 - Pirates (Season 8)\n• 21:58 [Top 10] Round 8 - Futuristic (Season 9)\n• 24:58 [Top 5] Round 9 - Black Hole Event (Season 10)\n• 28:47 [Finals] Round 10 - Halloween\n• 31:02 Courage's Final Performance\n• 33:24 Courage's Final Performance v2\n• 34:40 Winner\n\n• Undercover in Courage's Fashion Show ➔ https://youtu.be/zGcSqyIklNA\n• Undercover in SypherPK's Fashion Show ➔ https://youtu.be/AX6LjCtpsSM\n\n━━━━━━━━━━━━━\n\n🎮 TWITCH ➔ https://www.Twitch.tv/NickEh30\n\n🎮 YOUTUBE SHORTS ➔ @NickEh30Shorts\n\n📷 INSTAGRAM ➔ https://Instagram.com/NickEh30\n\n🐦 TWITTER ➔ https://Twitter.com/NickEh30\n\n🎭 FACEBOOK ➔ https://Facebook.com/NickEh30\n\n📽️ TIKTOK ➔ https://www.TikTok.com/@NickEh30\n\n📱 DISCORD ➔ https://www.Discord.gg/NickEh30\n\n🖼️ SNAPCHAT ➔ https://www.Snapchat.com/add/NickEh30\n\n━━━━━━━━━━━━━\n\n👕 My Official Nick Eh 30 Merch ➔ https://NickEh30.Shop\n\n🥤 My new Nick Eh 30 Gfuel Flavor/Cup → https://gfuel.ly/nickeh30\n• Code NickEh30 for 20% off!\n\n🪙 Support-A-Creator code: NickEh30 (Epic Partner)\n\n━━━━━━━━━━━━━\n\n📺 More 100 player Fortnite matches (Full Playlist) ➔ https://youtube.com/playlist?list=PLcVnblva-BZQaYaK1MJMFv6YsWgCwi65f\n\n📺 More Fortnite Tournaments (Full Playlist) ➔ https://www.youtube.com/playlist?list=PLcVnblva-BZTvpoXeZSJK6XLsHMHF6f11\n\n━━━━━━━━━━━━━\n\n📮 Send Nick Eh 30 mail:\n\nNick Eh 30\nPO Box 31047 Gladstone\nHalifax, Nova Scotia\nB3K 5T9\n\n• All mail/packages should be sent using Canada Post (not UPS, FedEx, etc.), please and thank you. 🙂\n\n━━━━━━━━━━━━━\n\n#Fortnite #CodeNickEh30",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Hdi-2ulrVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Hdi-2ulrVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Hdi-2ulrVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Hdi-2ulrVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Hdi-2ulrVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nick Eh 30",
+        "tags": [
+          "fortnite",
+          "fortnite gameplay",
+          "fortnite battle royale",
+          "fortnite funny moments",
+          "fortnite new update",
+          "fortnite victory royale",
+          "Fortnite Item Shop",
+          "Fortnite funny",
+          "Fortnite tips",
+          "Fortnite Update",
+          "Fortnite How To Win",
+          "Fortnite how to play",
+          "Fortnite Victory Royale",
+          "Fortnite tournament",
+          "fortnite best moments",
+          "Fortnite event",
+          "FORTNITE new map",
+          "Fortnite live",
+          "Fortnite nick eh 30",
+          "fortnite new season",
+          "Fortnite Chapter 4",
+          "Courage",
+          "Fortnite Courage",
+          "Nick Eh 30 Courage",
+          "NickEh30 Courage"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Courage went UNDERCOVER in Nick Eh 30's fashion show!",
+          "description": "100 player Fortnite fashion show with @CouRageJD going undercover! (Chapter 4 Season 1)\n• Thank you PlayStation for sponsoring! Check out the DualSense Edge wireless controller → https://www.inflcr.co/SHGQn [ad]\n\n━━━━━━━━━━━━━\n\n• 0:00 Fashion Show Intro\n• 0:24 Round 1 - OG (Season 1)\n• 2:31 Round 2 - Knights (Season 2)\n• 5:48 PlayStation Sponsored Segment\n• 7:28 Round 3 - Space (Season 3)\n• 10:01 Round 4 - Superhero (Season 4)\n• 12:48 Round 5 - Graffiti (Season 5) \n• 15:04 Round 6 - Cube vs Winter (Season 6 & 7)\n• 17:37 Round 7 - Pirates (Season 8)\n• 21:58 [Top 10] Round 8 - Futuristic (Season 9)\n• 24:58 [Top 5] Round 9 - Black Hole Event (Season 10)\n• 28:47 [Finals] Round 10 - Halloween\n• 31:02 Courage's Final Performance\n• 33:24 Courage's Final Performance v2\n• 34:40 Winner\n\n• Undercover in Courage's Fashion Show ➔ https://youtu.be/zGcSqyIklNA\n• Undercover in SypherPK's Fashion Show ➔ https://youtu.be/AX6LjCtpsSM\n\n━━━━━━━━━━━━━\n\n🎮 TWITCH ➔ https://www.Twitch.tv/NickEh30\n\n🎮 YOUTUBE SHORTS ➔ @NickEh30Shorts\n\n📷 INSTAGRAM ➔ https://Instagram.com/NickEh30\n\n🐦 TWITTER ➔ https://Twitter.com/NickEh30\n\n🎭 FACEBOOK ➔ https://Facebook.com/NickEh30\n\n📽️ TIKTOK ➔ https://www.TikTok.com/@NickEh30\n\n📱 DISCORD ➔ https://www.Discord.gg/NickEh30\n\n🖼️ SNAPCHAT ➔ https://www.Snapchat.com/add/NickEh30\n\n━━━━━━━━━━━━━\n\n👕 My Official Nick Eh 30 Merch ➔ https://NickEh30.Shop\n\n🥤 My new Nick Eh 30 Gfuel Flavor/Cup → https://gfuel.ly/nickeh30\n• Code NickEh30 for 20% off!\n\n🪙 Support-A-Creator code: NickEh30 (Epic Partner)\n\n━━━━━━━━━━━━━\n\n📺 More 100 player Fortnite matches (Full Playlist) ➔ https://youtube.com/playlist?list=PLcVnblva-BZQaYaK1MJMFv6YsWgCwi65f\n\n📺 More Fortnite Tournaments (Full Playlist) ➔ https://www.youtube.com/playlist?list=PLcVnblva-BZTvpoXeZSJK6XLsHMHF6f11\n\n━━━━━━━━━━━━━\n\n📮 Send Nick Eh 30 mail:\n\nNick Eh 30\nPO Box 31047 Gladstone\nHalifax, Nova Scotia\nB3K 5T9\n\n• All mail/packages should be sent using Canada Post (not UPS, FedEx, etc.), please and thank you. 🙂\n\n━━━━━━━━━━━━━\n\n#Fortnite #CodeNickEh30"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RFEloQRCsFoc2g4TfnmgLRwU2Z4",
+      "id": "lOsMsIzGOQ0",
+      "snippet": {
+        "publishedAt": "2023-02-06T18:58:14Z",
+        "channelId": "UCbPY1Efha9VPRBYW2x1M16A",
+        "title": "Kyrie Irving Is A Dallas Maverick | JJ Redick Full Trade Reaction",
+        "description": "In this clip, JJ Redick and Tommy Alter discuss the Kyrie Irving trade between The Brooklyn Nets and The Dallas Mavericks. What does this mean for Kevin Durant and Luka Doncic? What are The Mavs ceiling now? What is their floor? It's all covered in this clip. \n\nSubscribe to The Old Man and The Three podcast w/ JJ Redick (ESPN / First Take) and Tommy Alter YouTube channel today for more NBA analysis, player interviews and highlights.\n\nAnd be sure to check out this week's episode of The Old Man and The Three Things EXCLUSIVELY on Amazon Music. http://www.amazon.com/OM3_us_hfd_wiaa_110122\n\n#nba #kyrieirving #jjredick",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lOsMsIzGOQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lOsMsIzGOQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lOsMsIzGOQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lOsMsIzGOQ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lOsMsIzGOQ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJ Redick",
+        "tags": [
+          "jj redick",
+          "jj redick youtube",
+          "jj redick podcast",
+          "jj redick youtube channel",
+          "the old man and the three",
+          "nba",
+          "jj redick espn",
+          "espn",
+          "first take",
+          "nba highlights",
+          "jj redick interview",
+          "jj redick trade reaciton",
+          "kyrie",
+          "kyrie irving",
+          "kyrie irving trade",
+          "kyrie irving jj redick",
+          "luka doncic",
+          "luka doncic kyrie irving",
+          "jj redick kyrie irving trade reaction",
+          "kyrie nets",
+          "kyrie irving nets",
+          "kyrie dallas mavericks",
+          "dallas mavericks",
+          "mavs",
+          "kyrie mavs",
+          "luka kyrie",
+          "luka doncic jj redick"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kyrie Irving Is A Dallas Maverick | JJ Redick Full Trade Reaction",
+          "description": "In this clip, JJ Redick and Tommy Alter discuss the Kyrie Irving trade between The Brooklyn Nets and The Dallas Mavericks. What does this mean for Kevin Durant and Luka Doncic? What are The Mavs ceiling now? What is their floor? It's all covered in this clip. \n\nSubscribe to The Old Man and The Three podcast w/ JJ Redick (ESPN / First Take) and Tommy Alter YouTube channel today for more NBA analysis, player interviews and highlights.\n\nAnd be sure to check out this week's episode of The Old Man and The Three Things EXCLUSIVELY on Amazon Music. http://www.amazon.com/OM3_us_hfd_wiaa_110122\n\n#nba #kyrieirving #jjredick"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_-SowQUYXsn-O_YuZ8KmDXSEFT0",
+      "id": "O9Fv4lIFZ7A",
+      "snippet": {
+        "publishedAt": "2023-02-06T05:02:43Z",
+        "channelId": "UCiKGMZZmZXK-RpbKJGXgH3Q",
+        "title": "Sam Smith & Kim Petras’ RACY ‘Unholy’ Performance At 2023 Grammys",
+        "description": "Kim Petras and Sam Smith had an epic night at the 2023 Grammys! The pair won Best Pop Duo / Group Performance for their hit song, “Unholy.” They also sizzled during a racy performance of their hit song.\n\n» SUBSCRIBE: http://bit.ly/AHsub \n» Visit Our Website: http://accessonline.com\n\nGet More Access : \nFacebook: https://www.facebook.com/accessonline/\nTwitter: https://twitter.com/accessonline\nInstagram: https://www.instagram.com/accessonline\n\nAbout Access Hollywood:\nAccess Hollywood is a nationally syndicated daily entertainment news show. Access Hollywood delivers the most comprehensive coverage of entertainment news and personalities on television, featuring in-depth celebrity interviews and behind-the-scenes accounts of the most important events in Hollywood.\n\nSam Smith & Kim Petras’ RACY ‘Unholy’ Performance At 2023 Grammys\nhttps://www.youtube.com/AccessOnline\n\n#AccessHollywood \n#SamSmith\n#KimPetras",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O9Fv4lIFZ7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O9Fv4lIFZ7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O9Fv4lIFZ7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O9Fv4lIFZ7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O9Fv4lIFZ7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Access Hollywood",
+        "tags": [
+          "sam smith",
+          "kim petras",
+          "grammys",
+          "2023 grammys",
+          "grammy awards",
+          "award shows",
+          "unholy",
+          "epic night",
+          "duo",
+          "music news",
+          "performance",
+          "Unholy",
+          "celebrity news",
+          "celebrity updates",
+          "whips",
+          "entertainment news",
+          "horns",
+          "belting",
+          "singing",
+          "celeb news",
+          "celeb updates",
+          "access hollywood",
+          "access hollywood news",
+          "Best Pop Duo / Group Performance",
+          "award",
+          "history",
+          "transgender woman",
+          "LGBTQ",
+          "trans",
+          "Madonna",
+          "celeb family",
+          "LGBTQ rights",
+          "mother",
+          "support",
+          "thankful",
+          "acceptance speech",
+          "recording academy",
+          "breaking news",
+          "celebs"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Sam Smith & Kim Petras’ RACY ‘Unholy’ Performance At 2023 Grammys",
+          "description": "Kim Petras and Sam Smith had an epic night at the 2023 Grammys! The pair won Best Pop Duo / Group Performance for their hit song, “Unholy.” They also sizzled during a racy performance of their hit song.\n\n» SUBSCRIBE: http://bit.ly/AHsub \n» Visit Our Website: http://accessonline.com\n\nGet More Access : \nFacebook: https://www.facebook.com/accessonline/\nTwitter: https://twitter.com/accessonline\nInstagram: https://www.instagram.com/accessonline\n\nAbout Access Hollywood:\nAccess Hollywood is a nationally syndicated daily entertainment news show. Access Hollywood delivers the most comprehensive coverage of entertainment news and personalities on television, featuring in-depth celebrity interviews and behind-the-scenes accounts of the most important events in Hollywood.\n\nSam Smith & Kim Petras’ RACY ‘Unholy’ Performance At 2023 Grammys\nhttps://www.youtube.com/AccessOnline\n\n#AccessHollywood \n#SamSmith\n#KimPetras"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4Pd_uoYcwWNIeuVC1AGQQgPsHIQ",
+      "id": "iRM3RKC6tT0",
+      "snippet": {
+        "publishedAt": "2023-02-06T11:00:25Z",
+        "channelId": "UCK9_x1DImhU-eolIay5rb2Q",
+        "title": "Buy Hogwarts Legacy Review - \"Buy, Wait for Sale, Never touch?\"",
+        "description": "Hogwarts legacy is coming out for ps5, xbox and PC, a game by Avalanche and WB you take on the roll of a 5th-year student at Hogwarts learning about the Harry Potter-based wizarding world, and constantly trying to uncover what the secret to Hogwarts is, and why its legacy matters so much.\nhogwarts legacy review from acg.\nHogwarts legacy \n#hogwarts #hogwartslegacy \nBuy the game, use the ACG Amazon Affiliate ACG https://amzn.to/3cW7GQ0 \nBuy Hogwarts Legacy Review \"Buy, Wait for Sale, Never touch?\"\n\n🕶  Welcome to what I hope is the best video game review channel on youtube.\nSubscribe to ACG for video game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\nLets review Hogwarts legacy\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACG",
+        "tags": [
+          "acgreview",
+          "angrycentaurgaming",
+          "gameplay",
+          "ACG",
+          "gaming news",
+          "acg reviews",
+          "video games",
+          "angry review",
+          "acg impressions",
+          "videogame reviews",
+          "videogame review",
+          "game review",
+          "acg review",
+          "games",
+          "gamenews",
+          "reaction",
+          "ign",
+          "steam deck",
+          "react to",
+          "comedy",
+          "podcast",
+          "Buy Hogwarts Legacy Review Buy Wait for Sale",
+          "Never touch?",
+          "hogwarts legacy review",
+          "hogwarts legacy gameplay",
+          "hogwarts legacy",
+          "hogwarts legacy release date",
+          "hogwarts legacy early access",
+          "hogwarts legacy platforms",
+          "review hogwarts legacy"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Buy Hogwarts Legacy Review - \"Buy, Wait for Sale, Never touch?\"",
+          "description": "Hogwarts legacy is coming out for ps5, xbox and PC, a game by Avalanche and WB you take on the roll of a 5th-year student at Hogwarts learning about the Harry Potter-based wizarding world, and constantly trying to uncover what the secret to Hogwarts is, and why its legacy matters so much.\nhogwarts legacy review from acg.\nHogwarts legacy \n#hogwarts #hogwartslegacy \nBuy the game, use the ACG Amazon Affiliate ACG https://amzn.to/3cW7GQ0 \nBuy Hogwarts Legacy Review \"Buy, Wait for Sale, Never touch?\"\n\n🕶  Welcome to what I hope is the best video game review channel on youtube.\nSubscribe to ACG for video game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\nLets review Hogwarts legacy\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KGBY_YW3uslnzIX19yzCAsHfj6I",
+      "id": "-zgh5twHQ5E",
+      "snippet": {
+        "publishedAt": "2023-02-07T00:04:25Z",
+        "channelId": "UCO_RC-EuZVTkxm5e8ek1zvA",
+        "title": "Becoming A Rapper And Making A Song",
+        "description": "Thank you to Geologie for sponsoring this video. Use code DUKE70 for 70% off. https://geolog.ie/DUKE70\nBecoming A Rapper And Making A Song\nFollow me on Instagram: Duke_Dennis\nFollow me on Twitter: Imdukedennis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zgh5twHQ5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zgh5twHQ5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zgh5twHQ5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-zgh5twHQ5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-zgh5twHQ5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Duke Dennis",
+        "tags": [
+          "duke dennis",
+          "deeblock duke",
+          "duke dennis song",
+          "duke dennis rap",
+          "duke dennis becoming a rapper and making a song",
+          "duke dennis 24 hours",
+          "duke dennis amp"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Becoming A Rapper And Making A Song",
+          "description": "Thank you to Geologie for sponsoring this video. Use code DUKE70 for 70% off. https://geolog.ie/DUKE70\nBecoming A Rapper And Making A Song\nFollow me on Instagram: Duke_Dennis\nFollow me on Twitter: Imdukedennis"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

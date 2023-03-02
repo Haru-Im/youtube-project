@@ -1,13 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* width와 height 적용 */
+  width: 100vw;
+  height: 100vh;
+
+  /* 일반 css에서 tailwind 문법 사용하고 싶으면 @apply */
+  @apply flex flex-col items-center;
+  /* 한줄로 적는것보다 속성별로 나누기 */
+  @apply bg-zinc-900 text-gray-50;
+}
+
+/* root요소에 리액트 요소 렌더링되는데, root의 최대너비 지정하기 */
+#root {
+  /* 기본적으로는 화면을 꽉 채우고, 최대너비 스크린의 2xl정도로 */
+  @apply w-full max-w-screen-2xl;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
