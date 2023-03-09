@@ -11,6 +11,7 @@
 # production
 /build
 
+# github에 올라가지 않도록
 # misc
 .env
 .DS_Store

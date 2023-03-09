@@ -1,3 +1,7 @@
+// router 정의는 app.js에서 해도 되지만 index.js에서 하겠음
+// children은 outlet 안에서 보여질 것들
+// 어플리케이션이 router로 시작할 수 있도록 RouterProvider에 경로를 양보해 줌
+
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
@@ -8,7 +12,6 @@ import { NotFound } from "./pages/NotFound";
 import { Videos } from "./pages/Videos";
 import { VideoDetail } from "./pages/VideoDetail";
 
-//router 정의는 app.js애서 해도 되고 index.js에서 해도 됨
 const router = createBrowserRouter([
   {
     path: "/",
@@ -18,7 +21,7 @@ const router = createBrowserRouter([
       //index 최상위라면 보여주는 element
       { index: true, element: <Videos /> },
       { path: "/videos", element: <Videos /> },
-      //videos다음 특정 키워드파람 있는 경우 검색결과의 목록 보여줄것
+      //videos 경로에서 특정 파람을 keyword라고 명시하고, keyword에 맞는 검색 결과를 보여줄 것
       { path: "/videos/:keyword", element: <Videos /> },
       { path: "/videos/watch/:videoId", element: <VideoDetail /> },
     ],
@@ -27,7 +30,6 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    {/* App.js가 아닌 router에게 경로 양보 */}
     <RouterProvider router={router} />
   </React.StrictMode>
 );
