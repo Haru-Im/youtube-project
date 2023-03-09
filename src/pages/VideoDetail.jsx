@@ -24,7 +24,7 @@ export const VideoDetail = () => {
           width="100%"
           height="640"
           // 비디오 url : embed 뒤에 원하는 id 삽입하면 됨
-          src={`http://www.youtube.com/embed/${video.id}`}
+          src={`https://www.youtube.com/embed/${video.id}`}
           frameborder="0"
         />
         <div className="p-8">
